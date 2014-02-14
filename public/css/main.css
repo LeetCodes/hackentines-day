@@ -1,10 +1,7 @@
-.card {
-
-}
-
 .greeting {
   text-align: center;
   color: red;
+  line-height: 1.4em;
 }
 
 .card-text {
@@ -19,7 +16,7 @@
 }
 
 .pizza-love { 
-  margin-top: 40px;
+  margin-top: 20px;
   height: 335px;
 }
 
@@ -31,7 +28,6 @@
     height: 52px;
     width: 52px;
 }
-
 
 
 body {
@@ -46,12 +42,8 @@ p {
 
 .hackentines-day-card-container {
   width: 500px;
-  /*height: 200px;*/
   height: 460px;
   margin: 40px auto;
-  /*background-color: #E1E1E1;*/
-  /*padding-top: 25px;*/
-  /*padding-bottom: 300px;*/
   padding: 25px;
   cursor: pointer;
 
