@@ -1,8 +1,8 @@
 hackentines-day
 ===============
-A simple, geeky Valentine's Day card deployed with Heroku. This is a quick project I did for a friend as an exercise in deploying a (almost) static site and writing some simple JavaScript animation.
+A simple, geeky Valentine's Day card deployed with Heroku.
 
-*hackentines-day* uses Rack and Sinatra for basic URL routing. Here's how to use it:
+*hackentines-day* uses Sinatra for basic URL routing. Here's how to use it:
 
 For a basic greeting:
 
